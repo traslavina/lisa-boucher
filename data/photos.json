@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "image": "/images/uploads/lisa-headshot.jpg",
+    "alt": "Lisa D. Boucher, Associate Professor of Practice"
+  },
+  "hero_accent": {
+    "image": "/images/uploads/lisa-field-plants.jpg",
+    "alt": "Lisa examining plant specimens in the field"
+  },
+  "gallery": [
+    {
+      "image": "/images/uploads/lisa-field-plants.jpg",
+      "caption": "Examining plant specimens during fieldwork",
+      "alt": "Lisa examining plant specimens during fieldwork"
+    },
+    {
+      "image": "/images/uploads/lisa-coastal-fieldwork.jpg",
+      "caption": "Volcanic coastline field research",
+      "alt": "Lisa on volcanic coastline during field research"
+    },
+    {
+      "image": "/images/uploads/lisa-flamingo-observation.jpg",
+      "caption": "Observing flamingos in the Galapagos",
+      "alt": "Lisa observing flamingos with binoculars in the Galapagos"
+    },
+    {
+      "image": "/images/uploads/lisa-galapagos-postoffice.jpg",
+      "caption": "Post Office Bay, Galapagos Islands",
+      "alt": "Lisa at Post Office Bay, Galapagos Islands"
+    }
+  ]
+}
